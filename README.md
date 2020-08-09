@@ -5,7 +5,7 @@
 auswertung_funds
 
 ### Description
-Importing data, calculating statistical values analyzing the funds of different companies and displaying them in a user interface.
+Importing data, calculating statistical values, analyzing the funds of different companies and displaying them in a GUI.
 
 ### Files used
 Funds_sheet_Data.csv 
